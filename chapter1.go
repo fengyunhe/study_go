@@ -8,7 +8,6 @@ import (
 )
 
 func main() {
-
 	var quantity int32
 	quantity = 3
 
