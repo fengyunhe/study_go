@@ -11,3 +11,5 @@
 5. 因为模块是本地路径，所以需要做一个替换，执行 `go mod edit -replace go.firegod.cn/greetings=../greetings`
 6. 执行`go mod tidy`
 7. 引入成功
+
+这个模块在 分支 `greetings` 中有一份简单的实现
